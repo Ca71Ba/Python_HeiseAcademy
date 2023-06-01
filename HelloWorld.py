@@ -7,7 +7,7 @@ z = 100.99      # float
 
 # a,b,c = 1, 2, 4
 
-a, b = 1.25, 25
+a, b = 1.25, 125
 result = a*b
 
 print(f"Ergebnis:", result)
